@@ -1,0 +1,36 @@
+2022-08-10 11:28:37,953  INFO [main] GetStudentReportExam:32 - Launching chrome browser
+2022-08-10 11:28:39,867  INFO [main] GetStudentReportExam:36 - Launching the FrontEnd portal
+2022-08-10 11:28:39,993  INFO [main] GetStudentReportExam:38 - Maximize the Browser
+2022-08-10 11:28:53,495  INFO [main] GetStudentReportExam:58 - The number of Record  is from Portal on 7 days Filletr 7
+2022-08-10 11:28:55,258  INFO [main] GetStudentReportExam:60 - Launching the WorkBench URL
+2022-08-10 11:28:59,391  INFO [main] GetStudentReportExam:65 - Login to the WorkBench
+2022-08-10 11:29:07,195  INFO [main] GetStudentReportExam:69 - Connect Workbench & salesforce integrate
+2022-08-10 11:29:09,427  INFO [main] GetStudentReportExam:78 - Clear the Extra API On the URI 
+2022-08-10 11:29:09,507  INFO [main] GetStudentReportExam:80 - on the api Testing Here We fillter the Exam Complete the 7 days
+2022-08-10 11:29:21,856  INFO [main] GetStudentReportExam:86 - To show the Response came from Salesforce & the record count 7
+2022-08-10 12:20:34,993  INFO [main] GetStudentReportExam:26 - Launching chrome browser
+2022-08-10 12:20:37,123  INFO [main] GetStudentReportExam:30 - Launching the FrontEnd portal
+2022-08-10 12:20:37,248  INFO [main] GetStudentReportExam:32 - Maximize the Browser
+2022-08-10 12:20:50,133  INFO [main] GetStudentReportExam:51 - The number of Record  is from Portal on 7 days Filletr 7
+2022-08-10 12:20:52,251  INFO [main] GetStudentReportExam:53 - Launching the WorkBench URL
+2022-08-10 12:20:55,402  INFO [main] GetStudentReportExam:58 - Login to the WorkBench
+2022-08-10 12:20:58,919  INFO [main] GetStudentReportExam:62 - Connect Workbench & salesforce integrate
+2022-08-10 12:21:04,143  INFO [main] GetStudentReportExam:67 - Clear the Extra API On the URI 
+2022-08-10 12:21:04,263  INFO [main] GetStudentReportExam:69 - on the api Testing Here We fillter the Exam Complete the 7 days
+2022-08-10 12:21:17,237  INFO [main] GetStudentReportExam:75 - To show the Response came from Salesforce & the record count 7
+2022-08-10 13:30:41,763  INFO [main] GetStudentReportExam:26 - =============nullBrowser Lunch=======
+2022-08-10 13:30:43,521  INFO [main] GetStudentReportExam:29 - Launching chrome browser
+2022-08-10 13:30:45,155  INFO [main] GetStudentReportExam:33 - Launching the FrontEnd portal
+2022-08-10 13:30:45,281  INFO [main] GetStudentReportExam:35 - Maximize the Browser
+2022-08-10 13:31:19,127  INFO [main] GetStudentReportExam:26 - =============nullBrowser Lunch=======
+2022-08-10 13:31:20,913  INFO [main] GetStudentReportExam:29 - Launching chrome browser
+2022-08-10 13:31:26,030  INFO [main] GetStudentReportExam:33 - Launching the FrontEnd portal
+2022-08-10 13:31:26,174  INFO [main] GetStudentReportExam:35 - Maximize the Browser
+2022-08-10 13:31:26,328  INFO [main] GetStudentReportExam:40 - ========nullFrontend Test Start=====
+2022-08-10 13:31:38,435  INFO [main] GetStudentReportExam:56 - The number of Record  is from Portal on 7 days Filletr 7
+2022-08-10 13:31:40,175  INFO [main] GetStudentReportExam:58 - Launching the WorkBench URL
+2022-08-10 13:31:42,987  INFO [main] GetStudentReportExam:63 - Login to the WorkBench
+2022-08-10 13:31:46,272  INFO [main] GetStudentReportExam:67 - Connect Workbench & salesforce integrate
+2022-08-10 13:31:51,143  INFO [main] GetStudentReportExam:72 - Clear the Extra API On the URI 
+2022-08-10 13:31:51,243  INFO [main] GetStudentReportExam:74 - on the api Testing Here We fillter the Exam Complete the 7 days
+2022-08-10 13:32:03,111  INFO [main] GetStudentReportExam:80 - To show the Response came from Salesforce & the record count 7
